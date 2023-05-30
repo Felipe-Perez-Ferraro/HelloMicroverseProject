@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 > Making a pull request with some commits inside.
 
-**Hello Microverse Project** is a...
+**Hello Microverse Project** is a mini-project based on follow a few steps to practice with github-flow, to create branches, commit changes and make a pull request
 
 ## 🛠 Built With <a name="built-with"></a>
 
